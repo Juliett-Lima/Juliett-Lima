@@ -4,6 +4,23 @@
 - 💞️ I’m looking to collaborate on ... I am not having strong interests I would be able to name here.
 - 📫 How to reach me ... not so much currently.
 
+A bit more of my background
+- I am a senior IT professional (Sr. Dir. Product Management) since 1993
+- Especially as I am an IT professional and left RnD for the management role since so long, it is important for me to keep up-to-date
+- Also to keep the feet on the ground - knowing about what engineers are talking about
+- I have a computer scientists degree from Technical University of Darmstadt / Germany
+- I am here for private reasons, though
+- I was always interested in programming languages and their concepts
+- Languages I used to be very familiar with are: C, C++, Objective-C, Smalltalk, Java, PROLOG, PERL
+- Although I wrote super efficient scripts to support everyday development tasks in PERL, I dislike languages that can't be recognized by me after 2 weeks anymore.
+- I needI/prefer it more human-readable and understandable
+- And I started to love OO (object orientation)
+- I never really made it into functional programming - except for what PROLOG had
+- In the last decades I also played with Python, although I have to say it appears to be just a bot fo a better PERL to me.
+- I heard about go as an engineer said to me: "Go fits better to us C programmers than Java.".
+- That's why I want to judge go. And I meanwhile can understand it (after having written an LL(2) recursive descent scanner/parser for a proprietary query language.
+- I think that's it for now
+- 
 <!---
 Juliett-Lima/Juliett-Lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
