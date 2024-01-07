@@ -19,7 +19,8 @@ A bit more of my background
 - I never really made it into functional programming - except for what PROLOG had
 - In the last decades I also played with Python, although I have to say it appears to be just a bot fo a better PERL to me.
 - I heard about go as an engineer said to me: "Go fits better to us C programmers than Java.".
-- That's why I want to judge go. And I meanwhile can understand it (after having written an LL(2) recursive descent scanner/parser for a proprietary query language.
+- That's why I want to judge go. And I meanwhile can understand it (after having written an LL(2) recursive descent scanner/parser for a proprietary query language).
+- I never had compilers as a subject during my studies. But back then, I read Niklaus Wirth's book back and forth and so the dragon book some years later.
 - I think that's it for now
 
 Let's see how the journey goes...
