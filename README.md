@@ -13,7 +13,7 @@ A bit more of my background
 - I was always interested in programming languages and their concepts
 - Languages I used to be very familiar with are: C, C++, Objective-C, Smalltalk, Java, PROLOG, PERL
 - I created professional software the large scale with C++ and Java
-- Although I wrote super efficient scripts to support everyday development tasks in PERL, I dislike languages that can't be recognized by me after 2 weeks anymore.
+- Although I wrote super efficient PERL scripts to support everyday development tasks, I dislike languages that can't be recognized by me after 2 weeks anymore.
 - I needI/prefer it more human-readable and understandable
 - And I started to love OO (object orientation) looong ago, actually ∼ 1993
 - I never really made it into functional programming - except for what PROLOG had
