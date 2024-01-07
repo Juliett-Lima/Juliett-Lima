@@ -14,7 +14,7 @@ A bit more of my background
 - Languages I used to be very familiar with are: C, C++, Objective-C, Smalltalk, Java, PROLOG, PERL
 - Although I wrote super efficient scripts to support everyday development tasks in PERL, I dislike languages that can't be recognized by me after 2 weeks anymore.
 - I needI/prefer it more human-readable and understandable
-- And I started to love OO (object orientation)
+- And I started to love OO (object orientation) looong ago, actually ∼ 1993
 - I never really made it into functional programming - except for what PROLOG had
 - In the last decades I also played with Python, although I have to say it appears to be just a bot fo a better PERL to me.
 - I heard about go as an engineer said to me: "Go fits better to us C programmers than Java.".
