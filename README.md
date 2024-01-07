@@ -20,7 +20,9 @@ A bit more of my background
 - I heard about go as an engineer said to me: "Go fits better to us C programmers than Java.".
 - That's why I want to judge go. And I meanwhile can understand it (after having written an LL(2) recursive descent scanner/parser for a proprietary query language.
 - I think that's it for now
-- 
+
+Let's see how the journey goes...
+
 <!---
 Juliett-Lima/Juliett-Lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
